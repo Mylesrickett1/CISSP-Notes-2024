@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>CISSP Domain 2: GDPR Notes</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>CISSP Domain 2: GDPR Notes</h1>
+        <p>Your key takeaways from GDPR for the CISSP exam</p>
+    </header>
+
+    <main>
+        <section class="note-section">
+            <h2>GDPR Basics</h2>
+            <ul>
+                <li>Notification of data breach must be made within 72 hours.</li>
+                <li><strong>Data Processor:</strong> Processes personal data solely on behalf of the data controller.</li>
+                <li><strong>Data Controller:</strong> Controls the processing of data.</li>
+                <li><strong>Data Transfer:</strong> GDPR restricts data transfers to countries outside the EU.</li>
+            </ul>
+        </section>
+
+        <section class="note-section">
+            <h2>Reducing GDPR Exposure</h2>
+            <ul>
+                <li><strong>Anonymization:</strong> Removes all relevant data so that the original subject cannot be identified.</li>
+                <li><strong>Pseudonymization:</strong> Uses pseudonyms to represent other data, resulting in fewer GDPR requirements.</li>
+            </ul>
+        </section>
+
+        <section class="note-section">
+            <h2>Data Lifecycle</h2>
+            <ul>
+                <li>Create</li>
+                <li>Store</li>
+                <li>Use</li>
+                <li>Share</li>
+                <li>Archive</li>
+                <li>Destroy</li>
+            </ul>
+        </section>
+
+        <section class="note-section">
+            <h2>Data Security Controls</h2>
+            <ul>
+                <li>Marking, Labeling, Handling, Classification</li>
+                <li>Data Handling</li>
+                <li>Data Destruction</li>
+                <li>Record Retention</li>
+                <li>Tape Backup Security</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>GDPR notes for CISSP Domain 2 - 2024</p>
+    </footer>
+</body>
+</html>
+
